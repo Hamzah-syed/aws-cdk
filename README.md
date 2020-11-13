@@ -4,7 +4,7 @@ This is a blank project for TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-## Hello world api link which is implemented in hellowworld branh 
+## Hello world api link which is implemented in hellowworld branch 
 https://c2zyhc21r5.execute-api.us-east-2.amazonaws.com/prod/ 
 
 ## Useful commands
